@@ -1,6 +1,6 @@
-name = "Hyde"
+name = "Hyde Forked"
 license = "MIT"
-licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
+licenselink = "https://github.com/nmarley/hugo-theme-hyde-forked/blob/master/LICENSE.md"
 description = "An elegant open source and mobile first theme"
 tags = ["blog", "company"]
 features = ["blog", "themes"]
