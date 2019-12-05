@@ -3,7 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
 description = "An elegant open source and mobile first theme"
 tags = ["blog", "company"]
-features = ["blog", "themes", "disqus"]
+features = ["blog", "themes"]
 min_version = 0.53
 
 [author]
